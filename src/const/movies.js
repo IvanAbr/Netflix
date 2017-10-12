@@ -1,0 +1,3 @@
+export const GET_MOVIE = 'GET_MOVIE';
+export const FIND_MOVIE = 'FIND_MOVIE';
+export const SET_VISIBILITY_MOVIE = 'SET_VISIBILITY_MOVIE';

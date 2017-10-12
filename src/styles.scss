@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+}
+.navigation {
+  display: flex;
+  justify-content: space-around;
+}
+.link {
+  margin:20px;
+  text-decoration: none;
+}
+.active {
+  font-weight: bold;
+}

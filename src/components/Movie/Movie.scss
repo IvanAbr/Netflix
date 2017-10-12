@@ -1,0 +1,32 @@
+.movie-item {
+    display: flex;
+    background: black;
+    color:white;
+    align-items: center
+}
+.movie-item-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 50%;
+}
+.movie-item-image {
+    width: 50%;
+}
+.movie-item-realese {
+    margin: 5px;
+    font-weight: bold;
+}
+.movie-item-title {
+    color: #f55263;
+}
+.movie-item-summary {
+    text-align: left;
+}
+
+.movie-item-rating {
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 5px;
+}
